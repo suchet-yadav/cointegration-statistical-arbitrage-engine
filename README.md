@@ -100,7 +100,7 @@ Data Ingestion → Pair Selection → Cointegration Testing → Spread Modeling
    - Evaluate performance metrics  
 
 👉 Core idea:
-> Temporary deviations in cointegrated pairs create arbitrage opportunities :contentReference[oaicite:2]{index=2}
+> Temporary deviations in cointegrated pairs create arbitrage opportunities.
 
 ---
 
