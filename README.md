@@ -8,8 +8,8 @@ A quantitative trading system that identifies market-neutral opportunities using
 
 This project implements a **statistical arbitrage (StatArb) strategy** based on **cointegration-driven pairs trading**, designed to exploit temporary mispricings between related financial instruments.
 
-Statistical arbitrage strategies rely on **mean-reversion signals** derived from statistical relationships between assets :contentReference[oaicite:0]{index=0}.  
-Cointegration ensures that selected asset pairs maintain a **long-term equilibrium relationship**, even if they diverge in the short term :contentReference[oaicite:1]{index=1}.
+Statistical arbitrage strategies rely on **mean-reversion signals** derived from statistical relationships between assets.  
+Cointegration ensures that selected asset pairs maintain a **long-term equilibrium relationship**, even if they diverge in the short term.
 
 The system identifies such deviations and generates trading signals assuming the spread will revert to its mean.
 
